@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">A passionate Web development and ML enthusiasist</h3>
 
-- 🔭 I’m currently working on new **Node JS , MongoDB**
+- 🔭 I’m currently working on **Backend APIs, Machine learning**
 
 - 🌱 I’m currently learning **Machine Learning , Data Science**
 
